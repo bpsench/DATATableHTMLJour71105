@@ -1,1 +1,54 @@
+body {
+	background-color: lightgrey;
+}
 
+
+main{
+	width:60%;
+	margin: 0 auto;
+}
+
+
+section {
+  clear: both; left;
+}
+
+
+aside {
+	float: left;
+	border: solid 0px olive;
+	width: 20%;
+}
+
+
+article {
+	float: right;
+	width: 75%;
+}
+
+h1{
+	color:olive;
+	text-align: center;
+	font-family: cambria;
+	font-size: 50px;
+}
+
+
+h3{
+	color:black;
+	text-align: center;
+	font-family: tahoma
+	font-size:20px;
+}
+
+}
+
+iframe {
+	align-content: center;
+}
+
+footer{
+
+	clear:both;
+	text-algn: ;center; 
+}
